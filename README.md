@@ -7,6 +7,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
