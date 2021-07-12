@@ -32,4 +32,8 @@
         <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sbaiahmed1&theme=react"
             alt="Ahmed Sbai's Github commit streak">
     </a>
+    <a href="#">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbaiahmed1&show_icons=true&locale=en&layout=compact&theme=react"
+            alt="Ahmed Sbai's Most used languages">
+    </a>
   </div>
