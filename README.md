@@ -9,6 +9,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- MEDIUM:START -->
 - [Simple Collapsing Header Animation using React Native](https://javascript.plainenglish.io/simple-collapsing-header-animation-using-react-native-21f4c26b2222?source=rss-113ef063808e------2)
+- [Parallax Effect to Scroll View Items in React Native](https://javascript.plainenglish.io/parallax-effect-to-scroll-view-items-in-react-native-a2265ce81cba)
 <!-- MEDIUM:END -->
 <!-- BLOG-POST-LIST:END -->
 
