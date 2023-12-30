@@ -10,8 +10,10 @@
 <!-- MEDIUM:START -->
 - [Simple Collapsing Header Animation using React Native](https://javascript.plainenglish.io/simple-collapsing-header-animation-using-react-native-21f4c26b2222?source=rss-113ef063808e------2)
 - [Parallax Effect to Scroll View Items in React Native](https://javascript.plainenglish.io/parallax-effect-to-scroll-view-items-in-react-native-a2265ce81cba)
-- [React: MVVM example with MobX and Hooks](https://medium.com/@sbaiahmed1/amazing-features-introduced-in-reanimated-3-2ad5320ab9e3)
-- [Amazing features introduced in Reanimated 3](https://medium.com/javascript-in-plain-english/react-mvvm-with-mobx-89b2444b1f64)
+- [Amazing features introduced in Reanimated 3](https://medium.com/@sbaiahmed1/amazing-features-introduced-in-reanimated-3-2ad5320ab9e3)
+- [React: MVVM example with MobX and Hooks](https://medium.com/javascript-in-plain-english/react-mvvm-with-mobx-89b2444b1f64)
+- [Easy and Custom Code Input with 0 dependencies in React Native](https://medium.com/javascript-in-plain-english/easy-and-custom-code-input-with-0-dependencies-in-react-native-9e89826277f9)
+- [Lazy loading and code splitting in React Native? Is that even possible?] (https://medium.com/javascript-in-plain-english/lazy-loading-and-code-splitting-in-react-native-is-that-even-possible-2f6d23d75b81)
 <!-- MEDIUM:END -->
 <!-- BLOG-POST-LIST:END -->
 
