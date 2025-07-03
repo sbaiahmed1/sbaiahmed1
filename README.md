@@ -8,6 +8,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- MEDIUM:START -->
+- [Mobile Security: A Deep Dive into React Native Biometrics](https://javascript.plainenglish.io/mobile-security-a-deep-dive-into-react-native-biometrics-9f19645320d9)
 - [Simple Collapsing Header Animation using React Native](https://javascript.plainenglish.io/simple-collapsing-header-animation-using-react-native-21f4c26b2222?source=rss-113ef063808e------2)
 - [Parallax Effect to Scroll View Items in React Native](https://javascript.plainenglish.io/parallax-effect-to-scroll-view-items-in-react-native-a2265ce81cba)
 - [Amazing features introduced in Reanimated 3](https://medium.com/@sbaiahmed1/amazing-features-introduced-in-reanimated-3-2ad5320ab9e3)
